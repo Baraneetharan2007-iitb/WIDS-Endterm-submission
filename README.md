@@ -169,7 +169,7 @@ Using one frequent ticker:
 - NumPy  
 - yfinance  
 - TextBlob  
-- TensorFlow / Keras  
+- Pytorch 
 - Matplotlib  
 
 ---
